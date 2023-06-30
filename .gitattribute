@@ -1,0 +1,10 @@
+# Set the text attribute for specific file types
+*.txt   text
+*.py    text
+*.html  text
+
+# Set the binary attribute for specific file types
+*.png   binary
+*.jpg   binary
+*.pdf   binary
+
